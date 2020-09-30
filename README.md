@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning more about Web Development
 - 👯 I’m looking to collaborate on projects (You can message me)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaH-1849886&layout=compact)](https://github.com/MariaH-1849886/github-readme-stats)
 
 <!--
 **MariaH-1849886/MariaH-1849886** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
