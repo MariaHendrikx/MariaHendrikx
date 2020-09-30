@@ -4,6 +4,7 @@
 - 😄 I'm the founder of the RedAndWhiteApps: https://redandwhiteapps.com
 - 🌱 I’m currently learning more about Web Development
 - 👯 I’m looking to collaborate on projects (You can message me)
+- ⚡ Fun fact: I have a bachelor degree in violin
 
 
 <!--
