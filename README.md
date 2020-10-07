@@ -1,10 +1,11 @@
 ### Hi there 👋
-#### My Name is Maria Hendrikx and I am currently studying Computer Science @Hasselt University
+#### My Name is Maria Hendrikx and I am currently studying Computer Science @UHasselt
 - 🔭 I’m currently working on Online Study Buddy
-- 😄 I'm the founder of the RedAndWhiteApps: https://redandwhiteapps.com
+- ⚡ I'm the founder of 
+    - RedAndWhiteApps: https://redandwhiteapps.com (A company that creates games for musicians)
+    -   Maria Florencia: https://mariaflorencia.com (A website where random creations are shared)
 - 🌱 I’m currently learning more about Web Development
-- 👯 I’m looking to collaborate on projects (You can message me)
-- ⚡ Fun fact: I have a bachelor degree in violin
+- 😄 Fun fact: I have a bachelor degree in violin
 
 
 <!--
