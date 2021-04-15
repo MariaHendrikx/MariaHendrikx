@@ -1,20 +1,16 @@
 ### Hi there 👋
-#### My Name is Maria Hendrikx and I am currently studying Computer Science @UHasselt
-- 🔭 I’m currently working on Online Study Buddy
+#### My Name is Maria Hendrikx and I am currently studying Computer Science @Hasselt University
+- 🔭 I’m currently working on WorkWebbies, an online platform to concentrate and study.
 - ⚡ I'm the founder of 
     - RedAndWhiteApps: https://redandwhiteapps.com (A company that creates games for musicians)
     -   Maria Florencia: https://mariaflorencia.com (A website where random creations are shared)
-- 🌱 I’m currently learning more about Web Development
+- 🌱 I’m currently learning more about:
+    - Web Development & Security
 - 😄 Fun fact: I have a bachelor degree in violin
-
 
 <!--
 **MariaH-1849886/MariaH-1849886** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
