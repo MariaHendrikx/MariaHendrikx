@@ -1,10 +1,10 @@
 ### Hi there 👋
 #### My Name is Maria Hendrikx and I am currently studying Computer Science @Technical University of Denmark - DTU
--📫 Work:
-    - 😄 Currently working as QA Student worker @Unity    
-    - 💬 I’m currently working on WorkWebbies, an online platform to concentrate and study.
-    - ⚡I'm the founder of RedAndWhiteApps: https://redandwhiteapps.com (A company that creates games for musicians)
--🔭 I’m currently learning more about:
+- 📫 Work
+    - Currently working as QA Student worker @Unity    
+    - Also working on WorkWebbies, an online platform to concentrate and study.
+    - I'm the founder of RedAndWhiteApps: https://redandwhiteapps.com (A company that creates games for musicians)
+- 🔭 I’m currently learning more about:
     - Web Development & Security
     - Machine learning & Computer vision
 - 🌱 Studies
