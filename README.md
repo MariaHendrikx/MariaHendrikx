@@ -1,12 +1,16 @@
 ### Hi there 👋
 #### My Name is Maria Hendrikx and I am currently studying Computer Science @Technical University of Denmark - DTU
-- 🔭 I’m currently working on WorkWebbies, an online platform to concentrate and study.
-- ⚡ I'm the founder of RedAndWhiteApps: https://redandwhiteapps.com (A company that creates games for musicians)
-- 🌱 I’m currently learning more about:
+-📫 Work:
+    - 😄 Currently working as QA Student worker @Unity    
+    - 💬 I’m currently working on WorkWebbies, an online platform to concentrate and study.
+    - ⚡I'm the founder of RedAndWhiteApps: https://redandwhiteapps.com (A company that creates games for musicians)
+-🔭 I’m currently learning more about:
     - Web Development & Security
     - Machine learning & Computer vision
-- 🌱 I studied at @Hasselt University for my bachelor of science in Computer Science.
-- 😄 Fun fact: I have a bachelor degree in violin
+- 🌱 Studies
+    - 2015-2018: Bachelor of Arts in Violin (Classical Music)
+    - 2018-2021: Bachelor of Science in Computer Science @UHasselt
+    - 2021-present: Master of Science in Computer Science and Engineering @DTU
 
 <!--
 **MariaH-1849886/MariaH-1849886** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
