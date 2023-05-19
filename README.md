@@ -8,10 +8,10 @@
     - Web Development & Security
     - Machine learning & Computer vision & AI
 - 🌱 Studies
-    - 2015-2018: Bachelor of Arts in Violin (Classical Music)
+    - 2015-2018: Bachelor of Arts in Classical Music Performance, Violin
     - 2018-2021: Bachelor of Science in Computer Science @UHasselt
     - Fall 2022: Master of Science in Computer Science @HKU (The University Of Hong Kong)
-    - 2021-present: Master of Science in Computer Science and Engineering @DTU (Technical University of Denmark)
+    - 2021-2024: Master of Science in Computer Science and Engineering @DTU (Technical University of Denmark)
 
 <!--
 **MariaH-1849886/MariaH-1849886** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
