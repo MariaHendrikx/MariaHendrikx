@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### My Name is Maria Hendrikx and I am currently studying Computer Science @Technical University of Denmark - DTU
+#### A recent graduate Computer Science from the Technical University of Denmark - DTU
 - ⚡ Current Work 
     - 2024 - present: Founder of RedAndWhiteApps: https://redandwhiteapps.com
 - 🔭 I’m currently learning more about:
