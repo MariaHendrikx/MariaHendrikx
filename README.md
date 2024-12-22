@@ -2,7 +2,7 @@
 #### Computer Scientist
 - ⚡ Current Work
     - 2024 - present: Full Stack Engineer @Gismap
-    - 2024 - present: Founder of AI Toddler Stories
+    - 2024 - present: Founder of AI Story Book
 - 🔭 I’m currently learning more about:
     - Entrepeneurship 
     - Cloud, Web Development & Security
