@@ -1,6 +1,7 @@
 ### Hi there 👋 Welcome to Maria Hendrikx's GitHub
 #### Computer Scientist
 - ⚡ Current Work
+    - 2024 - present: Full Stack Engineer @Gismap
     - 2024 - present: Founder of AI Toddler Stories
 - 🔭 I’m currently learning more about:
     - Entrepeneurship 
