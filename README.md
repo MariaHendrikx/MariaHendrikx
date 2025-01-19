@@ -1,8 +1,8 @@
 ### Hi there 👋 Welcome to Maria Hendrikx's GitHub
 #### Computer Scientist
 - ⚡ Current Work
-    - 2024 - present: Full Stack Engineer @Gismap
-    - 2024 - present: Founder of AI Story Book
+    - 2024 - present: Full Stack Engineer [Gismap](https://gismap.dk)
+    - 2024 - present: Founder of [AI Story Book](https://aistorybook.app)
 - 🔭 I’m currently learning more about:
     - Entrepeneurship 
     - Cloud, Web Development & Security
