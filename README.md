@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to Maria Hendrikx's GitHub
 #### Computer Scientist
 - ⚡ Current Work
-    - 2024 - present: Founder of [AI Story Book](https://aistorybook.app)
+    - 2024 - present: Founder of [StoryBookly](https://Storybookly.app)
 - 🔭 I’m currently learning more about:
     - Entrepeneurship 
     - Cloud, Web Development & Security
