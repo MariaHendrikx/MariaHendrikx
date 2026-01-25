@@ -1,6 +1,7 @@
 ### Hi there 👋 Welcome to Maria Hendrikx's GitHub
 #### Computer Scientist
 - ⚡ Current Work
+    - 2026 - Present: Founder of [Akatan](https://akatan.io)
     - 2025 - present: Researcher at [Hasselt University](https://www.uhasselt.be/en/instituten-en/digitalfuturelab)
     - 2024 - present: Founder of [StoryBookly](https://Storybookly.app)
 - 🔭 I’m currently learning more about:
