@@ -10,7 +10,7 @@
     - Machine learning & Computer vision & AI
 - 📫 Past Work Experience
     - 2023 - 2024: Cloud Solution Architect @Microsoft
-    - 2021 - 2022: QA Student Developer @Unity
+    - 2021 - 2022: QA Developer @Unity
     - 2019 - 2021: Founder of RedAndWhiteApps (A company that creates games for musicians)
 - 🌱 Studies
     - 2021-2024: Master of Science in Computer Science and Engineering @DTU (Technical University of Denmark)
