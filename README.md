@@ -14,7 +14,7 @@
     - 2019 - 2021: Founder of RedAndWhiteApps (A company that creates games for musicians)
 - 🌱 Studies
     - 2021-2024: Master of Science in Computer Science and Engineering @DTU (Technical University of Denmark)
-    - Fall 2022: Postgraduate in Computer Science @HKU (The University Of Hong Kong)
+    - Fall 2022: Exchange - Postgraduate in Computer Science @HKU (The University Of Hong Kong)
     - 2018-2021: Bachelor of Science in Computer Science @UHasselt (Hasselt University)
     - 2015-2018: Bachelor of Arts in Classical Music Performance, Violin @LucaSchoolOfArts (Leuven, Belgium)
   
